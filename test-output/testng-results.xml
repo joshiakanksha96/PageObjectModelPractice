@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15719" started-at="2019-06-02T05:08:34Z" finished-at="2019-06-02T05:08:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15719" started-at="2019-06-02T05:08:34Z" finished-at="2019-06-02T05:08:49Z">
+      <class name="PageObjectModelPractice_TestScenarios.FreeCRM_loginTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="invokeBrowser" is-config="true" duration-ms="10295" started-at="2019-06-02T05:08:34Z" finished-at="2019-06-02T05:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="1255" started-at="2019-06-02T05:08:44Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_1, TestDescription=aaa, ExecutionFlag=y, UserName=AKANKSHA, Password=akanksha}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="851" started-at="2019-06-02T05:08:45Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_2, TestDescription=bbb, ExecutionFlag=y, UserName=ROHAN, Password=rohan}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="845" started-at="2019-06-02T05:08:46Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_3, TestDescription=ccc, ExecutionFlag=y, UserName=ARJUN, Password=arjun}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="833" started-at="2019-06-02T05:08:47Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_4, TestDescription=ddd, ExecutionFlag=y, UserName=NEELIMA, Password=neelima}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="803" started-at="2019-06-02T05:08:48Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_9, TestDescription=iii, ExecutionFlag=y, UserName=NEELIMA, Password=neelima}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+        <test-method status="PASS" signature="loginToFreeCRM(java.lang.String, java.util.LinkedHashMap)[pri:0, instance:PageObjectModelPractice_TestScenarios.FreeCRM_loginTest@5ca843]" name="loginToFreeCRM" duration-ms="801" started-at="2019-06-02T05:08:49Z" description="sheetName=c" data-provider="inputDataMethode" finished-at="2019-06-02T05:08:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{TC_ID=TC_10, TestDescription=jjj, ExecutionFlag=y, UserName=ARCHANA, Password=archana}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToFreeCRM -->
+      </class> <!-- PageObjectModelPractice_TestScenarios.FreeCRM_loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
